@@ -12,6 +12,7 @@
     <string name="numero">No.</string>
     <string name="pasa_tiempos">Pasatiempos</string>
     <string name="listar">Listar</string>
+    <string name="mensaje">persona guardada exitosamente</string>
     <string-array name="opciones">
         <item>@string/registrar</item>
         <item>@string/listar</item>
