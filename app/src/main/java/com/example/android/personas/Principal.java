@@ -38,6 +38,10 @@ public class Principal extends AppCompatActivity {
                     case 1:
                         i=new Intent(Principal.this, Listado.class);
                         startActivity(i);
+                        break;
+                    case 2:
+                        i=new Intent(Principal.this, ListPersonas.class);
+                        startActivity(i);
                 }
             }
         });
