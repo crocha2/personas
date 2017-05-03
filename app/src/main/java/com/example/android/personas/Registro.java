@@ -66,7 +66,7 @@ public class Registro extends AppCompatActivity {
 
     public int fotoAleatoria(){
         int  fotos[]={R.drawable.imagen1, R.drawable.imagen2, R.drawable.imagen3};
-        int numero = (int) (Math.random() *2);
+        int numero = (int) (Math.random() *3);
         return fotos[numero];
     }
 

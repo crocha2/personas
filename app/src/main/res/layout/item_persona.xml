@@ -45,7 +45,8 @@
             android:id="@+id/txtEdadPersona"
             android:layout_below="@+id/txtApellidoPersona"
             android:layout_toRightOf="@+id/imgFoto"
-            android:layout_toEndOf="@+id/imgFoto" />
+            android:layout_alignRight="@+id/txtApellidoPersona"
+            android:layout_alignEnd="@+id/txtApellidoPersona" />
 
     </RelativeLayout>
 </LinearLayout>
